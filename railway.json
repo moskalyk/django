@@ -4,7 +4,7 @@
         "builder": "NIXPACKS"
     },
     "deploy": {
-        "startCommand": "export FLASK_APP=main && flask run",
+        "startCommand": "export FLASK_APP=main && flask run -p 443",
         "restartPolicyType": "ON_FAILURE",
         "restartPolicyMaxRetries": 10
     }
