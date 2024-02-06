@@ -1,0 +1,2352 @@
+{
+    "items": [
+        {
+            "name": "Azure Crimson Fletcher's Gorgon Crossbow of Perfection of Dexterity of Radiance",
+            "type": "Crossbow",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 25-87"
+            ],
+            "stats": [
+                "Resist Cold +5-10%",
+                "Resist Fire +5-10%",
+                "Skills Amazon +1",
+                "Dexterity +16-20",
+                "Dexterity +1-2",
+                "Attack Rating +30"
+            ]
+        },
+        {
+            "name": "Wrist Spike",
+            "type": "Hand to Hand 2",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-27"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Tangerine Serpent's Cobalt Garnet Unearthed Wand",
+            "type": "Wand",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 22-28"
+            ],
+            "stats": [
+                "Resist Lightning +11-20%",
+                "Mana +11-20",
+                "Resist Cold +21-30%",
+                "Resist Fire +21-30%"
+            ]
+        },
+        {
+            "name": "Blade Talons of Piercing",
+            "type": "Hand to Hand 2",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-14"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Giant Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 22-45"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Berserker's Serpent's Phase Blade of Strength of the Bear of Swiftness of the Ox",
+            "type": "Sword",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 31-35"
+            ],
+            "stats": [
+                "Skills Barbarian +2",
+                "Mana +11-20",
+                "Strength +1-2",
+                "Knockback 1",
+                "Increased Attack Speed +30%",
+                "Strength +7-10"
+            ]
+        },
+        {
+            "name": "Razor Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-22"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Slayer's War Sword of the Lamprey",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-20"
+            ],
+            "stats": [
+                "Skills Barbarian +1",
+                "Life Steal 8-9%"
+            ]
+        },
+        {
+            "name": "Tomb Wand",
+            "type": "Wand",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-22"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Morning Star",
+            "type": "Mace",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 7-16"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Berserker's Serpent's Conquest Sword",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 37-53"
+            ],
+            "stats": [
+                "Skills Barbarian +2",
+                "Mana +11-20"
+            ]
+        },
+        {
+            "name": "Great Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 12-52"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Gothic Staff",
+            "type": "Staff",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 14-34"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Flanged Mace",
+            "type": "Mace",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 15-23"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Flying Knife",
+            "type": "Throwing Knife",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 23-54"
+            ],
+            "stats": []
+        },
+        {
+            "name": "decoy dagger of Piercing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-2"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Shadow Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 15-59"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Claymore of the Vampire",
+            "type": "Sword",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-30"
+            ],
+            "stats": [
+                "Mana Steal 9-12%"
+            ]
+        },
+        {
+            "name": "Runic Talons",
+            "type": "Hand to Hand 2",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 24-44"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Cudgel of the Jackal",
+            "type": "Club",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 6-21"
+            ],
+            "stats": [
+                "Life +1-5"
+            ]
+        },
+        {
+            "name": "Highland Blade of the Ox of the Vampire of Strength",
+            "type": "Sword",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 67-96"
+            ],
+            "stats": [
+                "Strength +7-10",
+                "Mana Steal 9-12%",
+                "Strength +1-2"
+            ]
+        },
+        {
+            "name": "Shamshir of the Locust of Puncturing",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-24"
+            ],
+            "stats": [
+                "Life Steal 6-7%",
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Scepter of Brilliance",
+            "type": "Scepter",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 6-11"
+            ],
+            "stats": [
+                "Mana +11-15"
+            ]
+        },
+        {
+            "name": "Lizard's Horadric Staff",
+            "type": "Staff",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 12-20"
+            ],
+            "stats": [
+                "Mana +3-5"
+            ]
+        },
+        {
+            "name": "Dagger of Piercing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-4"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Maiden Javelin",
+            "type": "Amazon Javelin",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-14"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Reflex Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 9-19"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Phase Blade of Swiftness of the Ox of Strength of the Locust",
+            "type": "Sword",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 31-35"
+            ],
+            "stats": [
+                "Increased Attack Speed +30%",
+                "Strength +7-10",
+                "Strength +1-2",
+                "Life Steal 6-7%"
+            ]
+        },
+        {
+            "name": "Battle Cestus of Puncturing of Piercing",
+            "type": "Hand to Hand 2",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 36-42"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20",
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Broad Axe ",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-18"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Twin Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-38"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Serpent's Slayer's Bec-de-Corbin",
+            "type": "Polearm",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-85"
+            ],
+            "stats": [
+                "Mana +11-20",
+                "Skills Barbarian +1"
+            ]
+        },
+        {
+            "name": "Soldier's Cobalt Ocher Heavenly Stone of Fire Quenching of Ease of the Wolf",
+            "type": "Orb",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 21-46"
+            ],
+            "stats": [
+                "Attack Rating +61-80",
+                "Enhanced Maximum Damage +41-50%",
+                "Resist Cold +21-30%",
+                "Resist Lightning +11-20%",
+                "Absorb Fire +6-8",
+                "Requirements 20%",
+                "Life +11-20"
+            ]
+        },
+        {
+            "name": "Choking Gas Potion",
+            "type": "Missile Potion",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 0-1"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Garnet Jade Beryl Eldritch Orb",
+            "type": "Orb",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 18-50"
+            ],
+            "stats": [
+                "Resist Fire +21-30%",
+                "Resist Poison +11-20%",
+                "Resist Poison +5%"
+            ]
+        },
+        {
+            "name": "Long Staff of Piercing",
+            "type": "Staff",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 2-8"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Broad Axe ",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-18"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Double Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 11-26"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Strangling Gas Potion of Replenishing",
+            "type": "Missile Potion",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 0-1"
+            ],
+            "stats": [
+                "Replenish Quantity 15"
+            ]
+        },
+        {
+            "name": "Serpent's Berserker's Dimensional Blade",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-35"
+            ],
+            "stats": [
+                "Mana +11-20",
+                "Skills Barbarian +2"
+            ]
+        },
+        {
+            "name": "Crimson Tangerine Wyrm's Stalagmite of the Jackal of Light of Piercing",
+            "type": "Staff",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 75-107"
+            ],
+            "stats": [
+                "Resist Fire +5-10%",
+                "Resist Lightning +11-20%",
+                "Mana +41-60",
+                "Life +1-5",
+                "Attack Rating +15",
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Naga",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 16-45"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Serpent's Slayer's Highland Blade",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 67-96"
+            ],
+            "stats": [
+                "Mana +11-20",
+                "Skills Barbarian +1"
+            ]
+        },
+        {
+            "name": "Wyrm's Long Staff",
+            "type": "Staff",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 2-8"
+            ],
+            "stats": [
+                "Mana +41-60"
+            ]
+        },
+        {
+            "name": "Two-Handed Sword of the Vampire",
+            "type": "Sword",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-17"
+            ],
+            "stats": [
+                "Mana Steal 8-9%"
+            ]
+        },
+        {
+            "name": "Club",
+            "type": "Club",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-6"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Wyrm's War Scepter",
+            "type": "Scepter",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-17"
+            ],
+            "stats": [
+                "Mana +41-60"
+            ]
+        },
+        {
+            "name": "Serpent's Slayer's Cutlass",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-21"
+            ],
+            "stats": [
+                "Mana +11-20",
+                "Skills Barbarian +1"
+            ]
+        },
+        {
+            "name": "Berserker's Serpent's Zweihander of Bashing of the Wraith",
+            "type": "Sword",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 29-54"
+            ],
+            "stats": [
+                "Skills Barbarian +2",
+                "Mana +11-20",
+                "To Monster Defense Per Hit -25-40",
+                "Mana Steal 6-7%"
+            ]
+        },
+        {
+            "name": "Lizard's Ocher Grave Wand of Radiance of the Apprentice",
+            "type": "Wand",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-29"
+            ],
+            "stats": [
+                "Mana +1-2",
+                "Resist Lightning +5-10%",
+                "Attack Rating +30",
+                "Faster Cast Rate 10%"
+            ]
+        },
+        {
+            "name": "Two-Handed Sword",
+            "type": "Sword",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 8-17"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Cryptic Sword of the Giant of the Ox of the Bear of the Vampire",
+            "type": "Sword",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 5-77"
+            ],
+            "stats": [
+                "Strength +11-15",
+                "Strength +6-9",
+                "Knockback 1",
+                "Mana Steal 8-9%"
+            ]
+        },
+        {
+            "name": "Ogre Maul",
+            "type": "Hammer",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 77-106"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Long Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 3-10"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Winged Harpoon",
+            "type": "Amazon Javelin",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 27-35"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Military Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 14-34"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Cinquedeas",
+            "type": "Throwing Knife",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 15-31"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Cinquedeas of Puncturing of Piercing",
+            "type": "Throwing Knife",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 15-31"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20",
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Short Battle Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 5-11"
+            ],
+            "stats": []
+        },
+        {
+            "name": "War Hammer of the Titan",
+            "type": "Hammer",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 19-29"
+            ],
+            "stats": [
+                "Strength +16-20"
+            ]
+        },
+        {
+            "name": "Stygian Pike of Puncturing",
+            "type": "Amazon Spear",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 29-144"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Long Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 3-10"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Dagger of Piercing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-4"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Harpoon",
+            "type": "Amazon Javelin",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 13-35"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Long Sword  of the Giant",
+            "type": "Sword",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 3-19"
+            ],
+            "stats": [
+                "Strength +11-15"
+            ]
+        },
+        {
+            "name": "Berserker's Serpent's Great Poleaxe of Might of Vileness of Puncturing of the Bear",
+            "type": "Polearm",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 46-127"
+            ],
+            "stats": [
+                "Skills Barbarian +2",
+                "Mana +11-20",
+                "Strength +3-5",
+                "Prevent Monster Heal 1",
+                "To Monster Defense Per Hit -10-20",
+                "Knockback 1"
+            ]
+        },
+        {
+            "name": "Crystal Sword of the Locust",
+            "type": "Sword",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 5-15"
+            ],
+            "stats": [
+                "Life Steal 6-7%"
+            ]
+        },
+        {
+            "name": "Champion Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 59-94"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Choking Gas Potion",
+            "type": "Missile Potion",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 0-1"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Morning Star of Bashing",
+            "type": "Mace",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 7-16"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -25-40"
+            ]
+        },
+        {
+            "name": "Wyrm's Wand",
+            "type": "Wand",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 2-4"
+            ],
+            "stats": [
+                "Mana +41-60"
+            ]
+        },
+        {
+            "name": "Wrist Blade of Piercing",
+            "type": "Hand to Hand 2",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 5-9"
+            ],
+            "stats": [
+                "Ignore Target Defense 1"
+            ]
+        },
+        {
+            "name": "Edge Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 6-19"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Giant Thresher of the Mammoth of Might of the Bear of the Vampire",
+            "type": "Polearm",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 40-114"
+            ],
+            "stats": [
+                "Life +31-40",
+                "Strength +4-6",
+                "Knockback 1",
+                "Mana Steal 9-12%"
+            ]
+        },
+        {
+            "name": "Crimson Fletcher's Balista of the Sun of Dexterity",
+            "type": "Crossbow",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 33-55"
+            ],
+            "stats": [
+                "Resist Fire +5-10%",
+                "Skills Amazon +1",
+                "Attack Rating % +5%",
+                "Dexterity +1-2"
+            ]
+        },
+        {
+            "name": "Siege Crossbow",
+            "type": "Crossbow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 20-42"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Zweihander",
+            "type": "Sword",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 29-54"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Jagged Star",
+            "type": "Mace",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 20-31"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Swirling Crystal",
+            "type": "Orb",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 18-42"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Balrog Blade",
+            "type": "Sword",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 55-118"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Dagger",
+            "type": "Throwing Knife",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-4"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Ruby Snake's Arch-Angel's Sapphire Archon Staff of Light of the Apprentice of Energy of Brilliance",
+            "type": "Staff",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 83-99"
+            ],
+            "stats": [
+                "Resist Fire +31-40%",
+                "Mana +5-10",
+                "Skills Sorceress +2",
+                "Resist Cold +31-50%",
+                "Attack Rating +15",
+                "Faster Cast Rate 10%",
+                "Energy +1",
+                "Mana +11-15"
+            ]
+        },
+        {
+            "name": "Short Staff of Enlightenment",
+            "type": "Staff",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-5"
+            ],
+            "stats": [
+                "Energy +21-30"
+            ]
+        },
+        {
+            "name": "Throwing Knife of Puncturing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 2-3"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Berserker Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 24-71"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Slayer's Crystal Sword of the Locust",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 5-15"
+            ],
+            "stats": [
+                "Skills Barbarian +1",
+                "Life Steal 8-10%"
+            ]
+        },
+        {
+            "name": "Amber Ocher Lizard's Polished Wand",
+            "type": "Wand",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 18-33"
+            ],
+            "stats": [
+                "Resist Lightning +31-40%",
+                "Resist Lightning +5-10%",
+                "Mana +3-5"
+            ]
+        },
+        {
+            "name": "Crusader Bow",
+            "type": "Amazon Bow",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 15-63"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Giant Sword",
+            "type": "Sword",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 9-28"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Ghost Glaive",
+            "type": "Amazon Javelin",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 19-60"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Throwing Knife of Puncturing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 2-3"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Colossus Crossbow of Skill of Precision of the Sun",
+            "type": "Crossbow",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 32-91"
+            ],
+            "stats": [
+                "Dexterity +4-6",
+                "Dexterity +10-15",
+                "Attack Rating % +5%"
+            ]
+        },
+        {
+            "name": "Giant Axe",
+            "type": "Throwing Axe",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 22-45"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Martel de Fer of the Wolf of Might of Bashing",
+            "type": "Hammer",
+            "tier": "Legendary",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 61-99"
+            ],
+            "stats": [
+                "Life +11-20",
+                "Strength +3-5",
+                "To Monster Defense Per Hit -25-40"
+            ]
+        },
+        {
+            "name": "Slayer's Broad Sword of the Wraith",
+            "type": "Sword",
+            "tier": "Rare",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 7-14"
+            ],
+            "stats": [
+                "Skills Barbarian +1",
+                "Mana Steal 6-7%"
+            ]
+        },
+        {
+            "name": "decoy dagger of Puncturing",
+            "type": "Throwing Knife",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-2"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Balanced Knife",
+            "type": "Throwing Knife",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 1-8"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Ceremonial Javelin",
+            "type": "Amazon Javelin",
+            "tier": "Common",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 18-35"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Brandistock of Puncturing",
+            "type": "Amazon Spear",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 7-17"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "War Spear of Puncturing",
+            "type": "Amazon Spear",
+            "tier": "Magic",
+            "category": "offensive",
+            "main_stats": [
+                "Damage: 10-37"
+            ],
+            "stats": [
+                "To Monster Defense Per Hit -10-20"
+            ]
+        },
+        {
+            "name": "Preserved Head of the Tiger",
+            "type": "Voodoo Heads",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +21-30"
+            ]
+        },
+        {
+            "name": "Miocene Snake's Mesh Belt of the Tiger of the Colosuss",
+            "type": "Belt",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 35-40"
+            ],
+            "stats": [
+                "Defense/Level +1",
+                "Mana +5-10",
+                "Life +21-30",
+                "Life +41-60"
+            ]
+        },
+        {
+            "name": "Mesh Boots",
+            "type": "Boots",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 37-44"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Scarabshell Boots of the Tiger of Incombustibility of Acceleration",
+            "type": "Boots",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 56-65"
+            ],
+            "stats": [
+                "Life +21-30",
+                "Absorb Fire +3",
+                "Faster Run/Walk +40%"
+            ]
+        },
+        {
+            "name": "Viridian Dragon's Mnemonic Earth Spirit of the Fox of Grace of Radiance of the Mammoth",
+            "type": "Pelt",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Resist Poison +21-30%",
+                "Mana +31-40",
+                "Mana/Level +6",
+                "Life +6-10",
+                "Dex/Level +3",
+                "Attack Rating +30",
+                "Life +31-40"
+            ]
+        },
+        {
+            "name": "War Gauntlets",
+            "type": "Gloves",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 43-53"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Wire Fleece",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Spired Helm of Absorption of Memory of the Fox of Fortune",
+            "type": "Circlet",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 114-159"
+            ],
+            "stats": [
+                "Damage Reduced By 13",
+                "Mana/Level +6",
+                "Life +6-10",
+                "Magic Find +16-25%"
+            ]
+        },
+        {
+            "name": "Fury Visor of Sorcery of Life of the Jackal",
+            "type": "Primal Helm",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Energy +11-15",
+                "Life +5",
+                "Life +1-5"
+            ]
+        },
+        {
+            "name": "Sacred Armor",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Lion Helm",
+            "type": "Primal Helm",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Preserved Head",
+            "type": "Voodoo Heads",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Saintly Heavy Gloves",
+            "type": "Gloves",
+            "tier": "Magic",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 5-6"
+            ],
+            "stats": [
+                "Defense 66-80%"
+            ]
+        },
+        {
+            "name": "Buckler of Grounding",
+            "type": "Shield",
+            "tier": "Magic",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 4-6"
+            ],
+            "stats": [
+                "Absorb Lightning +4-5"
+            ]
+        },
+        {
+            "name": "Blade Barrier of Simplicity of the Colosuss of Guarding",
+            "type": "Shield",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 147-163"
+            ],
+            "stats": [
+                "Requirements 40%",
+                "Life +41-60",
+                "Magic Damage Reduced By 13"
+            ]
+        },
+        {
+            "name": "Viridian Dragon's Full Plate Mail of the Dynamo of Accuracy",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Resist Poison +21-30%",
+                "Mana +31-40",
+                "Absorb Lightning +6-8",
+                "Dexterity +6-9"
+            ]
+        },
+        {
+            "name": "Glorious Leather Boots of Haste",
+            "type": "Boots",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 2-3"
+            ],
+            "stats": [
+                "Defense 41-50%",
+                "Faster Run/Walk +20%"
+            ]
+        },
+        {
+            "name": "Wire Fleece of the Mammoth of Anima of Strength",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +31-40",
+                "Damage Reduced By 18-15",
+                "Strength +1-2"
+            ]
+        },
+        {
+            "name": "Snake's Aerin Shield",
+            "type": "Auric Shields",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +5-10"
+            ]
+        },
+        {
+            "name": "Coral Dragon's Cobalt Bramble Mitts of the Fox of the Ox of Fortune",
+            "type": "Gloves",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 54-62"
+            ],
+            "stats": [
+                "Resist Lightning +21-30%",
+                "Mana +31-40",
+                "Resist Cold +21-30%",
+                "Life +5-10",
+                "Strength +7-10",
+                "Magic Find +20-35%"
+            ]
+        },
+        {
+            "name": "Light Belt",
+            "type": "Belt",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 3"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Viridian Mnemonic Serpent's Destroyer Helm",
+            "type": "Primal Helm",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Resist Poison +21-30%",
+                "Mana/Level +6",
+                "Mana +11-20"
+            ]
+        },
+        {
+            "name": "Mnemonic Dragon's Viridian Destroyer Helm",
+            "type": "Primal Helm",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana/Level +6",
+                "Mana +31-40",
+                "Resist Poison +21-30%"
+            ]
+        },
+        {
+            "name": "Paleocene Viridian Gothic Plate of Warding of Might",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +24",
+                "Resist Poison +21-30%",
+                "Magic Damage Reduced By 11",
+                "Strength +3-5"
+            ]
+        },
+        {
+            "name": "Silver Cobalt Great Wyrm's Emerald Diadem",
+            "type": "Circlet",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Attack Rating +61-80",
+                "Resist Cold +21-30%",
+                "Mana +61-90",
+                "Resist Poison +31-40%"
+            ]
+        },
+        {
+            "name": "Devious Spiked Shield",
+            "type": "Shield",
+            "tier": "Magic",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 15-25"
+            ],
+            "stats": [
+                "Magic Damage Reduced By 11"
+            ]
+        },
+        {
+            "name": "Basinet",
+            "type": "Circlet",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 75-84"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Heraldic Shield of Strength",
+            "type": "Auric Shields",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Strength +1-2"
+            ]
+        },
+        {
+            "name": "Paleocene Hard Leather Armor of Warding",
+            "type": "Cloak",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +24",
+                "Magic Damage Reduced By 11"
+            ]
+        },
+        {
+            "name": "Crown of Dexterity",
+            "type": "Circlet",
+            "tier": "Magic",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 25-45"
+            ],
+            "stats": [
+                "Dexterity +1-2"
+            ]
+        },
+        {
+            "name": "Mask of Amianthus",
+            "type": "Circlet",
+            "tier": "Magic",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 9-27"
+            ],
+            "stats": [
+                "Absorb Fire +4-5"
+            ]
+        },
+        {
+            "name": "Vampirebone Gloves",
+            "type": "Gloves",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 56-65"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Serpent's Mnemonic Viridian Carnage Helm of the Tiger of the Kraken of Radiance",
+            "type": "Primal Helm",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +11-20",
+                "Mana/Level +6",
+                "Resist Poison +21-30%",
+                "Life +21-30",
+                "Life/Level +6",
+                "Attack Rating +30"
+            ]
+        },
+        {
+            "name": "Bone Shield",
+            "type": "Shield",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 10-30"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Fortified Prismatic Miocene Blade Barrier of Guarding of the Dynamo of the Wolf",
+            "type": "Shield",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 147-163"
+            ],
+            "stats": [
+                "Magic Damage Reduced By 12",
+                "All Resistances +16-20%",
+                "Defense/Level +1",
+                "Magic Damage Reduced By 13",
+                "Absorb Lightning +6-8",
+                "Life +11-20"
+            ]
+        },
+        {
+            "name": "Scintillating Targe",
+            "type": "Auric Shields",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "All Resistances +12-15%"
+            ]
+        },
+        {
+            "name": "Corona of Coolness of the Mind of the Sun of the Fox",
+            "type": "Circlet",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 111-165"
+            ],
+            "stats": [
+                "Absorb Fire +2",
+                "Energy +4-6",
+                "Attack Rating % +5%",
+                "Life +6-10"
+            ]
+        },
+        {
+            "name": "Viridian Falcon Mask",
+            "type": "Pelt",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Resist Poison +21-30%"
+            ]
+        },
+        {
+            "name": "Fanged Helm of the Jackal",
+            "type": "Primal Helm",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +1-5"
+            ]
+        },
+        {
+            "name": "Miocene Serpent's Gothic Plate",
+            "type": "Cloak",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +6",
+                "Mana +11-20"
+            ]
+        },
+        {
+            "name": "Miocene Dragon's Trellised Armor of the Tiger of Might",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +6",
+                "Mana +31-40",
+                "Life +21-30",
+                "Strength +3-5"
+            ]
+        },
+        {
+            "name": "Miocene Dragon's Ghost Armor",
+            "type": "Cloak",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +6",
+                "Mana +31-40"
+            ]
+        },
+        {
+            "name": "Lacquered Plate",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Demonhide Armor",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Cuirass",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Fetish Trophy of Life of the Sentinel",
+            "type": "Voodoo Heads",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Damage Reduced By 14-7",
+                "Magic Damage Reduced By 12"
+            ]
+        },
+        {
+            "name": "Mesh Belt of the Squid of Equilibrium",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 35-40"
+            ],
+            "stats": [
+                "Life +61-80",
+                "Faster Hit Recovery 17%"
+            ]
+        },
+        {
+            "name": "Sacred Feathers of Sorcery of the Fox",
+            "type": "Pelt",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Energy +11-15",
+                "Life +6-10"
+            ]
+        },
+        {
+            "name": "Quilted Armor of Negation",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Magic Damage Reduced By 14-6"
+            ]
+        },
+        {
+            "name": "Gargoyle Head of the Fox",
+            "type": "Voodoo Heads",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +6-10"
+            ]
+        },
+        {
+            "name": "Archon Plate of the Squid of the Giant of Warding of Coolness",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +61-80",
+                "Strength +10-15",
+                "Magic Damage Reduced By 11",
+                "Absorb Fire +2"
+            ]
+        },
+        {
+            "name": "Eocene Viridian Serpent's Templar Coat of Amianthus of Anima of Might",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +18",
+                "Resist Poison +21-30%",
+                "Mana +11-20",
+                "Absorb Fire +4-5",
+                "Damage Reduced By 18-15",
+                "Strength +3-5"
+            ]
+        },
+        {
+            "name": "Serpent's Vulpine Snake's Ancient Shield",
+            "type": "Shield",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 80-93"
+            ],
+            "stats": [
+                "Mana +11-20",
+                "Damage To Mana 7-12%",
+                "Mana +5-10"
+            ]
+        },
+        {
+            "name": "Fury Visor",
+            "type": "Primal Helm",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Dragon's Holy Serpent's Scarabshell Boots of Luck of Precision of Thawing",
+            "type": "Boots",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 56-65"
+            ],
+            "stats": [
+                "Mana +31-40",
+                "Defense 81-100%",
+                "Mana +11-20",
+                "Magic Find +26-35%",
+                "Dexterity +11-15",
+                "Absorb Cold +3"
+            ]
+        },
+        {
+            "name": "Coral Azure Battle Belt of Ages of Wealth",
+            "type": "Belt",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 37-42"
+            ],
+            "stats": [
+                "Resist Lightning +21-30%",
+                "Resist Cold +5-10%",
+                "Indestructible ",
+                "Extra Gold 80-120%"
+            ]
+        },
+        {
+            "name": "Saintly Garnet Battle Belt",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 37-42"
+            ],
+            "stats": [
+                "Defense 66-80%",
+                "Resist Fire +21-30%"
+            ]
+        },
+        {
+            "name": "Eocene Vulpine Serpent's Royal Shield of Warding of Coolness of Ease",
+            "type": "Auric Shields",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +3",
+                "Damage To Mana 10%",
+                "Mana +11-20",
+                "Magic Damage Reduced By 11",
+                "Absorb Fire +2",
+                "Requirements 20%"
+            ]
+        },
+        {
+            "name": "Trellised Armor",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Shadow Plate of Absorption of the Dunes of the Giant of the Wolf",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Damage Reduced By 13",
+                "Absorb Cold +4-5",
+                "Strength +10-15",
+                "Life +11-20"
+            ]
+        },
+        {
+            "name": "Earth Spirit of the Jackal of Grace of the Sun of Energy",
+            "type": "Pelt",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +1-5",
+                "Dex/Level +3",
+                "Attack Rating % +5%",
+                "Energy +1"
+            ]
+        },
+        {
+            "name": "Mnemonic Falcon Mask",
+            "type": "Pelt",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana/Level +6"
+            ]
+        },
+        {
+            "name": "Tangerine Great Wyrm's Basinet",
+            "type": "Circlet",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 75-84"
+            ],
+            "stats": [
+                "Resist Lightning +5-10%",
+                "Mana +61-90"
+            ]
+        },
+        {
+            "name": "Demonhide Boots",
+            "type": "Boots",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 28-35"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Demonhide Armor",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Dragon's Quilted Armor",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +31-40"
+            ]
+        },
+        {
+            "name": "Breast Plate",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Alpha Helm of the Wolf of the Mind",
+            "type": "Pelt",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +11-20",
+                "Energy +4-6"
+            ]
+        },
+        {
+            "name": "Serpent's Eocene Viridian Dragon's Shadow Plate",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +11-20",
+                "Defense/Level +18",
+                "Resist Poison +21-30%",
+                "Mana +31-40"
+            ]
+        },
+        {
+            "name": "Akaran Targe of Warding of the Wolf",
+            "type": "Auric Shields",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Magic Damage Reduced By 11",
+                "Life +11-20"
+            ]
+        },
+        {
+            "name": "Grim Shield of Grounding of Absorption",
+            "type": "Shield",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 50-150"
+            ],
+            "stats": [
+                "Absorb Lightning +4-5",
+                "Damage Reduced By 13"
+            ]
+        },
+        {
+            "name": "Studded Leather  of the Ox",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Strength +6-9"
+            ]
+        },
+        {
+            "name": "Rainbow Snake's Antimagic Luna",
+            "type": "Shield",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 108-123"
+            ],
+            "stats": [
+                "All Resistances +8-11%",
+                "Mana +5-10",
+                "Magic Damage Reduced By 16-10"
+            ]
+        },
+        {
+            "name": "Spiked Shield",
+            "type": "Shield",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 15-25"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Mnemonic Deadly Basinet",
+            "type": "Circlet",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 75-84"
+            ],
+            "stats": [
+                "Mana/Level +6",
+                "Enhanced Maximum Damage +21-30%"
+            ]
+        },
+        {
+            "name": "Snake's Gargoyle Head",
+            "type": "Voodoo Heads",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +5-10"
+            ]
+        },
+        {
+            "name": "Mnemonic Dragon's Viridian Sun Spirit of the Mammoth of Brilliance of Radiance",
+            "type": "Pelt",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana/Level +6",
+                "Mana +31-40",
+                "Resist Poison +21-30%",
+                "Life +31-40",
+                "Energy +7-10",
+                "Attack Rating +30"
+            ]
+        },
+        {
+            "name": "Studded Leather  of Ease",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Requirements 20%"
+            ]
+        },
+        {
+            "name": "Dragon's Viridian Mnemonic Guardian Crown of the Colosuss of Radiance of the Kraken of the Mammoth",
+            "type": "Primal Helm",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +31-40",
+                "Resist Poison +21-30%",
+                "Mana/Level +6",
+                "Life +41-60",
+                "Attack Rating +30",
+                "Life/Level +6",
+                "Life +31-40"
+            ]
+        },
+        {
+            "name": "Paleocene Belt(M) of the Squid",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 5"
+            ],
+            "stats": [
+                "Defense/Level +4",
+                "Life +61-80"
+            ]
+        },
+        {
+            "name": "Mummified Trophy of Incombustibility of Ease",
+            "type": "Voodoo Heads",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Absorb Fire +3",
+                "Requirements 20%"
+            ]
+        },
+        {
+            "name": "Minion Skull",
+            "type": "Voodoo Heads",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Serpent's Breast Plate of Ease",
+            "type": "Cloak",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +11-20",
+                "Requirements 20%"
+            ]
+        },
+        {
+            "name": "Crimson Lapis Sharkskin Belt",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 31-36"
+            ],
+            "stats": [
+                "Resist Fire +5%",
+                "Resist Cold +11-20%"
+            ]
+        },
+        {
+            "name": "Burgundy Belt(M) of Power",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 5"
+            ],
+            "stats": [
+                "Resist Fire +11-20%",
+                "Str/Level +3"
+            ]
+        },
+        {
+            "name": "Serpentskin Armor",
+            "type": "Cloak",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Oligocene Dragon's Dragon's Sharktooth Armor",
+            "type": "Cloak",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +9",
+                "Mana +31-40",
+                "Mana +31-40"
+            ]
+        },
+        {
+            "name": "Ancient Shield",
+            "type": "Shield",
+            "tier": "Common",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 80-93"
+            ],
+            "stats": []
+        },
+        {
+            "name": "Mnemonic Dragon's Viridian Blood Spirt",
+            "type": "Pelt",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana/Level +6",
+                "Mana +31-40",
+                "Resist Poison +21-30%"
+            ]
+        },
+        {
+            "name": "Prismatic Fortified Vulpine Hyperion",
+            "type": "Shield",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 119-135"
+            ],
+            "stats": [
+                "All Resistances +16-20%",
+                "Magic Damage Reduced By 12",
+                "Damage To Mana 10%"
+            ]
+        },
+        {
+            "name": "Leather Armor of the Fox",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Life +6-10"
+            ]
+        },
+        {
+            "name": "Mnemonic Serpent's Alpha Helm",
+            "type": "Pelt",
+            "tier": "Rare",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana/Level +6",
+                "Mana +11-20"
+            ]
+        },
+        {
+            "name": "Demon Head",
+            "type": "Voodoo Heads",
+            "tier": "Common",
+            "category": null,
+            "main_stats": [],
+            "stats": []
+        },
+        {
+            "name": "Garnet Godly Demonhide Sash of the Tiger of the Giant",
+            "type": "Belt",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 29-34"
+            ],
+            "stats": [
+                "Resist Fire +21-30%",
+                "Defense 101-200%",
+                "Life +21-30",
+                "Strength +10-15"
+            ]
+        },
+        {
+            "name": "Dragon's Horned Helm",
+            "type": "Primal Helm",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Mana +31-40"
+            ]
+        },
+        {
+            "name": "Paleocene Rondache",
+            "type": "Auric Shields",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Defense/Level +4"
+            ]
+        },
+        {
+            "name": "Ring Mail of Amianthus",
+            "type": "Cloak",
+            "tier": "Magic",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Absorb Fire +4-5"
+            ]
+        },
+        {
+            "name": "Lizard's Belt(M) of the Giant",
+            "type": "Belt",
+            "tier": "Rare",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 5"
+            ],
+            "stats": [
+                "Mana +1-5",
+                "Strength +11-15"
+            ]
+        },
+        {
+            "name": "Sturdy Jade Tangerine Ocher Myrmidon Greaves",
+            "type": "Boots",
+            "tier": "Legendary",
+            "category": "defensive",
+            "main_stats": [
+                "Defense: 62-71"
+            ],
+            "stats": [
+                "Defense 20-30%",
+                "Resist Poison +21-30%",
+                "Resist Lightning +5-10%",
+                "Resist Lightning +5-10%"
+            ]
+        },
+        {
+            "name": "Ruby Viridian Devious Tiara",
+            "type": "Circlet",
+            "tier": "Legendary",
+            "category": null,
+            "main_stats": [],
+            "stats": [
+                "Resist Fire +31-40%",
+                "Resist Poison +11-20%",
+                "Magic Damage Reduced By 11"
+            ]
+        }
+    ]
+}
